@@ -52,7 +52,7 @@ export function VideoManualCreatorComponent() {
   }
 
   const formatDuration = (duration: string) => {
-    const match = duration.match(/PT(\d+H)?(\d+M)?(\d+S)?/)
+    const match = duration.match(/PT(\d+H)?(\d+M)?(\d+S)?/)!
     const hours = (match[1] && match[1].slice(0, -1)) || 0
     const minutes = (match[2] && match[2].slice(0, -1)) || 0
     const seconds = (match[3] && match[3].slice(0, -1)) || 0
