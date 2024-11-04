@@ -1,3 +1,10 @@
+動画マニュアル作成ツール（改良版）
+https://video-manual-creator.vercel.app/
+
+動画マニュアル作成ツール（改良版）のリポジトリ
+https://github.com/moomin100/video-manual-creator.git
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
